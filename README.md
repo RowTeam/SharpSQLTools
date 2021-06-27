@@ -33,3 +33,17 @@ Module:
     exit                       - terminates the server process (and this session)"
 
 ```
+
+
+
+### 20210627 更新 
+
+我只是实现功能，不提供免杀。
+
+![](./image/blog_2021-06-19_13-51-03.png)
+
+![](./image/blog_2021-06-19_13-52-10.png)
+
+![](./image/blog_2021-06-19_13-52-44.png)
+
+![](./image/blog_2021-06-19_13-52-59.png)
